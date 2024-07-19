@@ -56,6 +56,9 @@ df = pd.concat([x, labels], axis=1)
 df = df.rename(columns={0: 'labels'})
 df.plot.scatter(x='marks', y='shours', c='labels', colormap='Set1')
 
+![Screenshot 2024-07-18 175523](https://github.com/user-attachments/assets/e557d92b-1681-460a-ae14-cc116b8e0337)
+
+
 # Optimal Number of Clusters
 The elbow curve method is used to determine the optimal number of clusters by plotting the inertia for different cluster counts.
 inertia = []
@@ -72,6 +75,9 @@ plt.title('Elbow Curve')
 plt.xlabel('Number of Clusters')
 plt.ylabel('Squared Sum (Inertia)')
 plt.show()
+
+![Screenshot 2024-07-18 174557](https://github.com/user-attachments/assets/812284ca-63e9-4c8c-8105-4d07362944ec)
+
 
 # Results
 The clusters are visualized using a scatter plot with different colors representing different clusters.
