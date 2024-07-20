@@ -2,7 +2,7 @@
 # Clustering Algorithm to Find Relationships in Complex Dataset
 This project aims to find relationships within a complex dataset using a clustering algorithm. The project involves data visualization, normalization, clustering, and determining the optimal number of clusters using the elbow curve method.
 
-# steps of project 
+# "steps of project" 
 Dataset
 Dependencies
 Implementation
