@@ -16,9 +16,9 @@ The dataset used in this project is stored in a CSV file named studentclusters.c
 
 ### Dependencies
 The project requires the following Python libraries:
-pandas
-scikit-learn
-matplotlib
+* pandas
+* scikit-learn
+* matplotlib
 
 ### Data preprocessing
 ``` python
