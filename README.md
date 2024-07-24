@@ -3,13 +3,13 @@
 This project aims to find relationships within a complex dataset using a clustering algorithm. The project involves data visualization, normalization, clustering, and determining the optimal number of clusters using the elbow curve method.
 
 ## Steps of project 
-Dataset
-Dependencies
-Data preprocessing
-Clustering Algorithm
-Optimal Number of Clusters
-Results
-Conclusion
+1. Dataset
+2. Dependencies
+3. Data preprocessing
+4. Clustering Algorithm
+5. Optimal Number of Clusters
+6. Results
+7. Conclusion
 
 ### Dataset
 The dataset used in this project is stored in a CSV file named studentclusters.csv. The dataset includes features related to students' marks and study hours.
