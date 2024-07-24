@@ -57,7 +57,7 @@ df.plot.scatter(x='marks', y='shours', c='labels', colormap='Set1')
 ![Screenshot 2024-07-18 175523](https://github.com/user-attachments/assets/e557d92b-1681-460a-ae14-cc116b8e0337)
 
 
-# Optimal Number of Clusters
+### Optimal Number of Clusters
 ``` python
 The elbow curve method is used to determine the optimal number of clusters by plotting the inertia for different cluster counts.
 inertia = []
@@ -78,11 +78,11 @@ plt.show()
 ![Screenshot 2024-07-18 174557](https://github.com/user-attachments/assets/812284ca-63e9-4c8c-8105-4d07362944ec)
 
 
-# Results
+### Result
 The clusters are visualized using a scatter plot with different colors representing different clusters.
 The elbow curve helps determine the optimal number of clusters by showing the point where the inertia starts to decrease less sharply.
 
-# Conclusion
+### Conclusion
 This project demonstrates the use of the KMeans clustering algorithm to find relationships within a complex dataset. The elbow curve method is effective in determining the optimal number of clusters. Future work can include exploring different clustering algorithms and additional features to improve clustering accuracy.
 
 
