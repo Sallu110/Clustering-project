@@ -15,7 +15,7 @@ This project aims to find relationships within a complex dataset using a cluster
 The dataset used in this project is stored in a CSV file named studentclusters.csv. The dataset includes features related to students' marks and study hours.
 
 ```python
-shours ---> study hours
+shours = study hours
 ```
 
 ![Screenshot 2024-08-11 103444](https://github.com/user-attachments/assets/d035ee17-76f0-4b26-898a-91b379ea8cd8)
